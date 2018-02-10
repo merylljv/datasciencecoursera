@@ -21,3 +21,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ## Requirement(s) to run the script:
 
 * The data 'UCI HAR Dataset' folder should be in the same directory as run_analysis.R
+* Install the following R package:
+** dplyr
