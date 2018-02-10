@@ -29,3 +29,4 @@
 * extracts only the measurements on the mean and standard deviation for each measurement: __std_mean__
 * uses descriptive activity names _activity_ to name the activities in the data set __std_mean_activity__
 * creates tidy data set with the average of each variable for each activity and each subject: __ave_subj_act__
+ * saves it to _UCI HAR Dataset_ folder with filename __ave_subj_act.txt__
